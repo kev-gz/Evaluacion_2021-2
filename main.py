@@ -13,7 +13,7 @@ import json
 
 app = FastAPI()
 
-file='https://raw.githubusercontent.com/ComputationalMethods/Evaluacion_2021-1/main/calificaciones.json'
+file='https://raw.githubusercontent.com/ComputationalMethods/Evaluacion_2021-2/main/calificaciones.json'
 
 #JSON SCHEME
 #[{"student_id": str,
